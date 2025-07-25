@@ -21,7 +21,7 @@ Human vs. Computer: Play against a basic AI.
 
 * Mandatory Multi-Jumps: If a piece can make multiple consecutive jumps, it must continue until no further jumps are possible.
 
-* Pawn promotion to King upon reaching the opponent's back rank.
+* Pawn promotion to King upon reaching the opponent's home.
 
 ### Game End Conditions: 
 Detects win/loss by piece count or by a player having no legal moves.
@@ -58,9 +58,9 @@ To get the game running on your local machine, follow these steps:
 The game will start in your terminal.
 
 ## 4. How to Play
-* Players: You control the WHITE (WP/WK) pieces. The computer controls the BLACK (BP/BK) pieces.
+* Players control the WHITE (WP/WK) pieces. The computer controls the BLACK (BP/BK) pieces.
 
-* Turns: White (Human) moves first, then turns alternate.
+* Turns: Computer moves first, then turns alternate.
 
 * Board Display: The board is displayed with rows labeled A through H and columns labeled 0 through 7.
 
