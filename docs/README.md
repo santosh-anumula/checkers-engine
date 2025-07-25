@@ -123,3 +123,5 @@ This game provides a solid foundation. Here are some ideas for future improvemen
 * Undo/Redo Moves: Allow players to revert or re-apply moves.
 
 * Move History: Display a log of all moves made during the game.
+  
+* Setting a time limit to input the valid move
