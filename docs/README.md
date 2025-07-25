@@ -26,9 +26,6 @@ Human vs. Computer: Play against a basic AI.
 ### Game End Conditions: 
 Detects win/loss by piece count or by a player having no legal moves.
 
-### Text-Based Interface: 
-The game board is displayed in the console.
-
 ## 3. How to Run
 To get the game running on your local machine, follow these steps:
 
