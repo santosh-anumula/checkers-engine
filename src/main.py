@@ -1,5 +1,5 @@
 import copy
-import random  # Import the random module for random choices
+import random
 
 # --- Constants for Board Representation ---
 EMPTY = "__"
